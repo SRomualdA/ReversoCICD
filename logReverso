@@ -1,0 +1,327 @@
+07/03/2024 14:24:19 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+07/03/2024 14:24:19 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+07/03/2024 14:24:36 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+07/03/2024 14:24:37 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+07/03/2024 14:25:52 Level : SEVERE / Message : Error SQL : Duplicata du champ 'CIC' pour la clef 'client.Raison Social' / Classe : com.reverso.vue.formulaire.FormulaireClient$5 / Méthode : actionPerformed
+07/03/2024 14:50:00 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+07/03/2024 14:50:00 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+07/03/2024 14:50:41 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+07/03/2024 14:50:41 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+07/03/2024 15:41:41 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+07/03/2024 15:41:41 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+07/03/2024 15:42:42 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+07/03/2024 15:42:43 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+07/03/2024 15:43:12 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+07/03/2024 15:43:12 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+07/03/2024 15:50:57 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+07/03/2024 15:50:57 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+07/03/2024 15:54:14 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+07/03/2024 15:54:15 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+07/03/2024 15:55:48 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+07/03/2024 15:55:48 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+07/03/2024 15:56:59 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+07/03/2024 15:56:59 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+08/03/2024 10:48:55 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+08/03/2024 10:48:55 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+08/03/2024 10:49:39 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+08/03/2024 10:49:40 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+08/03/2024 10:50:29 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+08/03/2024 10:50:30 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+08/03/2024 10:51:57 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+08/03/2024 10:51:57 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+08/03/2024 10:53:34 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+08/03/2024 10:53:34 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+12/03/2024 15:22:42 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+12/03/2024 15:22:43 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+12/03/2024 15:33:26 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+12/03/2024 15:33:26 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+13/03/2024 10:21:20 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+13/03/2024 10:21:20 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+19/03/2024 08:49:07 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+19/03/2024 08:49:08 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+19/03/2024 08:49:12 Level : SEVERE / Message : Error accueil : Cannot invoke "java.sql.Connection.prepareStatement(String)" because "connection" is null / Classe : com.reverso.vue.Accueil$9 / Méthode : actionPerformed
+19/03/2024 08:55:26 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+19/03/2024 08:55:27 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+19/03/2024 09:03:57 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+19/03/2024 09:03:57 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+19/03/2024 09:17:19 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+19/03/2024 09:17:19 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+19/03/2024 09:17:42 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+19/03/2024 09:17:42 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+19/03/2024 09:32:10 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+19/03/2024 09:32:10 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+19/03/2024 09:40:10 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+19/03/2024 09:40:10 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+19/03/2024 09:42:53 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+19/03/2024 09:42:54 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+19/03/2024 09:44:08 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+19/03/2024 09:44:09 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+19/03/2024 10:09:10 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+19/03/2024 10:09:10 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+19/03/2024 10:14:11 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+19/03/2024 10:14:12 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+19/03/2024 10:25:13 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+19/03/2024 10:25:13 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+19/03/2024 10:28:32 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+19/03/2024 10:28:33 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+19/03/2024 10:28:49 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+19/03/2024 10:28:49 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+19/03/2024 10:30:28 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+19/03/2024 10:30:28 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+19/03/2024 10:48:38 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+19/03/2024 10:48:38 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+19/03/2024 10:58:24 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+19/03/2024 10:58:24 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+19/03/2024 11:01:07 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+19/03/2024 11:01:08 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+19/03/2024 11:02:15 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+19/03/2024 11:02:16 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+19/03/2024 11:05:43 Level : SEVERE / Message : For input string: "" / Classe : com.reverso.vue.formulaire.Formulaire$5 / Méthode : actionPerformed
+19/03/2024 11:07:14 Level : SEVERE / Message : Text '2024/06/06' could not be parsed at index 2 / Classe : com.reverso.vue.formulaire.Formulaire$5 / Méthode : actionPerformed
+19/03/2024 11:30:42 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+19/03/2024 11:30:42 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+19/03/2024 12:00:20 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+19/03/2024 12:00:20 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+19/03/2024 12:01:03 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+19/03/2024 12:01:03 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+19/03/2024 12:03:23 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+19/03/2024 12:03:23 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+19/03/2024 12:14:12 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+19/03/2024 12:14:12 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+19/03/2024 12:16:22 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+19/03/2024 12:16:23 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+19/03/2024 12:17:15 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+19/03/2024 12:17:15 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+19/03/2024 13:15:15 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+19/03/2024 13:15:15 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+19/03/2024 13:18:57 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+19/03/2024 13:18:57 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+19/03/2024 13:23:54 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+19/03/2024 13:23:55 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+19/03/2024 13:28:26 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+19/03/2024 13:28:26 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+19/03/2024 13:30:13 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+19/03/2024 13:30:14 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+19/03/2024 13:31:11 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+19/03/2024 13:31:11 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+19/03/2024 13:32:15 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+19/03/2024 13:32:15 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+19/03/2024 13:46:21 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+19/03/2024 13:46:21 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+19/03/2024 13:49:10 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+19/03/2024 13:49:11 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+19/03/2024 15:32:23 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+19/03/2024 15:32:23 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+19/03/2024 15:42:55 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+19/03/2024 15:42:56 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+19/03/2024 15:43:37 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+19/03/2024 15:43:38 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+20/03/2024 10:14:43 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+20/03/2024 10:14:43 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+20/03/2024 10:15:31 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+20/03/2024 10:15:31 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+20/03/2024 10:15:34 Level : SEVERE / Message : Erreur dans DatabaseConnexion : Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server. / Classe : com.reverso.dao.DatabaseConnexion / Méthode : <init>
+20/03/2024 10:16:47 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+20/03/2024 10:16:48 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+20/03/2024 10:16:51 Level : SEVERE / Message : Erreur dans DatabaseConnexion : Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server. / Classe : com.reverso.dao.DatabaseConnexion / Méthode : <init>
+20/03/2024 10:19:15 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+20/03/2024 10:19:16 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+20/03/2024 10:19:18 Level : SEVERE / Message : Erreur dans DatabaseConnexion : Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server. / Classe : com.reverso.dao.DatabaseConnexion / Méthode : <init>
+20/03/2024 10:20:50 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+20/03/2024 10:20:50 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+20/03/2024 10:20:53 Level : SEVERE / Message : Erreur dans DatabaseConnexion : Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server. / Classe : com.reverso.dao.DatabaseConnexion / Méthode : <init>
+20/03/2024 14:41:55 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+20/03/2024 14:41:56 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+20/03/2024 14:42:00 Level : SEVERE / Message : Erreur dans DatabaseConnexion : Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server. / Classe : com.reverso.dao.DatabaseConnexion / Méthode : <init>
+20/03/2024 14:42:25 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+20/03/2024 14:42:25 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+20/03/2024 15:06:58 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+20/03/2024 15:06:58 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+20/03/2024 15:54:16 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+20/03/2024 15:54:17 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+06/04/2024 11:14:24 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+06/04/2024 11:14:24 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+06/04/2024 11:14:31 Level : SEVERE / Message : Erreur dans DatabaseConnexion : Accès refusé pour l'utilisateur: 'Romy'@'@localhost' (mot de passe: OUI) / Classe : com.reverso.dao.DatabaseConnexion / Méthode : <init>
+06/04/2024 11:14:52 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+06/04/2024 11:14:53 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+06/04/2024 11:14:59 Level : SEVERE / Message : Erreur Exception dans Accueil : Cannot invoke "Object.toString()" because the return value of "javax.swing.JComboBox.getSelectedItem()" is null / Classe : com.reverso.vue.Accueil$1 / Méthode : actionPerformed
+06/04/2024 11:16:51 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+06/04/2024 11:16:51 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+06/04/2024 11:20:25 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+06/04/2024 11:20:26 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+06/04/2024 11:21:06 Level : SEVERE / Message : Erreur SQL dans Formulaire : Champ 'RaisonSocial' inconnu dans where clause / Classe : com.reverso.vue.formulaire.Formulaire$5 / Méthode : actionPerformed
+06/04/2024 11:25:27 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+06/04/2024 11:25:28 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+06/04/2024 11:26:13 Level : SEVERE / Message : Erreur SQL dans Formulaire : Champ 'RaisonSocial' inconnu dans where clause / Classe : com.reverso.vue.formulaire.Formulaire$5 / Méthode : actionPerformed
+06/04/2024 11:33:52 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+06/04/2024 11:33:52 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+06/04/2024 11:34:33 Level : SEVERE / Message : Erreur SQL dans Formulaire : Champ 'RaisonSocial' inconnu dans where clause / Classe : com.reverso.vue.formulaire.Formulaire$5 / Méthode : actionPerformed
+06/04/2024 11:35:10 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+06/04/2024 11:35:10 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+06/04/2024 11:35:50 Level : SEVERE / Message : Erreur SQL dans Formulaire : Champ 'RaisonSocial' inconnu dans where clause / Classe : com.reverso.vue.formulaire.Formulaire$5 / Méthode : actionPerformed
+06/04/2024 11:50:51 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+06/04/2024 11:50:52 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+06/04/2024 11:55:07 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+06/04/2024 11:55:07 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+06/04/2024 11:58:17 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+06/04/2024 11:58:17 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+06/04/2024 15:22:00 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+06/04/2024 15:22:03 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+06/04/2024 15:22:40 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+06/04/2024 15:22:41 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+06/04/2024 15:24:12 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+06/04/2024 15:24:12 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+06/04/2024 15:25:01 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+06/04/2024 15:25:01 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+06/04/2024 15:30:53 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+06/04/2024 15:30:53 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+06/04/2024 15:41:37 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+06/04/2024 15:41:37 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+06/04/2024 15:47:18 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+06/04/2024 15:47:19 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+06/04/2024 15:56:34 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+06/04/2024 15:56:35 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+06/04/2024 15:58:16 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+06/04/2024 15:58:17 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+06/04/2024 16:07:32 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+06/04/2024 16:07:32 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+06/04/2024 16:20:25 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+06/04/2024 16:20:26 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+07/04/2024 09:41:22 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+07/04/2024 09:41:25 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+07/04/2024 09:41:30 Level : SEVERE / Message : Erreur dans DatabaseConnexion : Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server. / Classe : com.reverso.dao.DatabaseConnexion / Méthode : <init>
+07/04/2024 09:44:33 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+07/04/2024 09:44:33 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+07/04/2024 09:48:42 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+07/04/2024 09:48:42 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+07/04/2024 09:49:32 Level : SEVERE / Message : Une erreur est survenue dans le formulaire : For input string: "" / Classe : com.reverso.vue.formulaire.Formulaire / Méthode : handleException
+07/04/2024 09:50:45 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+07/04/2024 09:50:45 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+07/04/2024 10:01:55 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+07/04/2024 10:01:55 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+07/04/2024 10:04:46 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+07/04/2024 10:04:47 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+07/04/2024 10:08:33 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+07/04/2024 10:08:34 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+07/04/2024 10:12:33 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+07/04/2024 10:12:34 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+07/04/2024 10:13:39 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+07/04/2024 10:13:40 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+07/04/2024 10:15:27 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+07/04/2024 10:15:27 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+07/04/2024 10:17:21 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+07/04/2024 10:17:22 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+07/04/2024 10:25:08 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+07/04/2024 10:25:08 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+07/04/2024 10:25:15 Level : SEVERE / Message : Une erreur est survenue dans le formulaire : Aucun formulaire n'est visible. / Classe : com.reverso.vue.formulaire.Formulaire / Méthode : handleException
+07/04/2024 10:25:27 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+07/04/2024 10:25:27 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+07/04/2024 10:26:18 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+07/04/2024 10:26:19 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+07/04/2024 10:28:00 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+07/04/2024 10:28:00 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+07/04/2024 10:28:12 Level : SEVERE / Message : Une erreur est survenue dans le formulaire : Aucun formulaire n'est visible. / Classe : com.reverso.vue.formulaire.Formulaire / Méthode : handleException
+07/04/2024 10:28:21 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+07/04/2024 10:28:22 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+07/04/2024 10:37:42 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+07/04/2024 10:37:42 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+07/04/2024 11:03:55 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+07/04/2024 11:03:56 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+07/04/2024 11:05:15 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+07/04/2024 11:05:16 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+07/04/2024 11:25:24 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+07/04/2024 11:25:25 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+07/04/2024 11:25:50 Level : SEVERE / Message : Une erreur est survenue dans le formulaire : Aucun formulaire n'est visible. / Classe : com.reverso.vue.formulaire.Formulaire / Méthode : handleException
+16/04/2024 11:05:49 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+16/04/2024 11:05:50 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+16/04/2024 11:05:57 Level : SEVERE / Message : Erreur dans DatabaseConnexion : Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server. / Classe : com.reverso.dao.DatabaseConnexion / Méthode : <init>
+16/04/2024 11:06:25 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+16/04/2024 11:06:26 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+16/04/2024 11:06:30 Level : SEVERE / Message : Erreur dans DatabaseConnexion : Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server. / Classe : com.reverso.dao.DatabaseConnexion / Méthode : <init>
+16/04/2024 11:07:21 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+16/04/2024 11:07:21 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+16/04/2024 11:07:25 Level : SEVERE / Message : Erreur dans DatabaseConnexion : Accès refusé pour l'utilisateur: 'Romuald'@'@localhost' (mot de passe: OUI) / Classe : com.reverso.dao.DatabaseConnexion / Méthode : <init>
+16/04/2024 11:08:42 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+16/04/2024 11:08:43 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+16/04/2024 11:08:47 Level : SEVERE / Message : Erreur dans DatabaseConnexion : Accès refusé pour l'utilisateur: 'Romuald'@'@localhost' (mot de passe: OUI) / Classe : com.reverso.dao.DatabaseConnexion / Méthode : <init>
+16/04/2024 11:09:50 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+16/04/2024 11:09:50 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+16/04/2024 11:12:49 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+16/04/2024 11:12:50 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+16/04/2024 11:20:48 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+16/04/2024 11:20:48 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+19/04/2024 08:43:21 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+19/04/2024 08:43:22 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+19/04/2024 08:43:27 Level : SEVERE / Message : Erreur dans DatabaseConnexion : Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server. / Classe : com.reverso.dao.DatabaseConnexion / Méthode : <init>
+19/04/2024 08:44:11 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+19/04/2024 08:44:11 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+19/04/2024 08:46:42 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+19/04/2024 08:46:42 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+19/04/2024 08:51:46 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+19/04/2024 08:51:47 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+19/04/2024 08:53:40 Level : SEVERE / Message : Une erreur est survenue dans le formulaire : Aucun formulaire n'est visible. / Classe : com.reverso.vue.formulaire.Formulaire / Méthode : handleException
+19/04/2024 08:53:59 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+19/04/2024 08:53:59 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+19/04/2024 08:56:57 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+19/04/2024 08:56:57 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+19/04/2024 08:59:35 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+19/04/2024 08:59:36 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+19/04/2024 09:00:19 Level : SEVERE / Message : Une erreur est survenue dans le formulaire : Aucun formulaire n'est visible. / Classe : com.reverso.vue.formulaire.Formulaire / Méthode : handleException
+19/04/2024 09:00:45 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+19/04/2024 09:00:45 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+19/04/2024 09:01:18 Level : SEVERE / Message : Une erreur est survenue dans le formulaire : Aucun formulaire n'est visible. / Classe : com.reverso.vue.formulaire.Formulaire / Méthode : handleException
+19/04/2024 09:20:00 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+19/04/2024 09:20:01 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+19/04/2024 09:30:58 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+19/04/2024 09:30:58 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+19/04/2024 09:31:37 Level : WARNING / Message : Erreur DAO dans formulaire : Erreur d'insertion : Doublon détecté ! / Classe : com.reverso.vue.formulaire.Formulaire$5 / Méthode : actionPerformed
+19/04/2024 09:31:52 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+19/04/2024 09:31:52 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+19/04/2024 09:36:01 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+19/04/2024 09:36:01 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+19/04/2024 09:36:18 Level : SEVERE / Message : Une erreur est survenue dans le formulaire : Aucun formulaire n'est visible. / Classe : com.reverso.vue.formulaire.Formulaire / Méthode : handleException
+19/04/2024 09:41:30 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+19/04/2024 09:41:30 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+19/04/2024 09:46:07 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+19/04/2024 09:46:08 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+19/04/2024 09:49:52 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+19/04/2024 09:49:53 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+19/04/2024 09:59:34 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+19/04/2024 09:59:34 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+22/04/2024 10:22:58 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+22/04/2024 10:22:59 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+22/04/2024 11:42:48 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+22/04/2024 11:42:49 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+22/04/2024 11:57:27 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+22/04/2024 11:57:28 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+22/04/2024 13:33:43 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+22/04/2024 13:33:43 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+22/04/2024 13:34:42 Level : SEVERE / Message : Erreur dans Accueil / Classe : com.reverso.vue.Accueil / Méthode : lambda$new$0
+22/04/2024 13:36:38 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+22/04/2024 13:36:38 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+24/04/2024 14:49:23 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+24/04/2024 14:49:23 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+24/04/2024 14:49:27 Level : SEVERE / Message : Erreur dans Accueil: Sélectionnez un item. / Classe : com.reverso.vue.Accueil / Méthode : lambda$new$0
+24/04/2024 14:49:55 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+24/04/2024 14:49:56 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
+24/04/2024 14:50:05 Level : SEVERE / Message : Erreur dans Accueil: Sélectionnez un item. / Classe : com.reverso.vue.Accueil / Méthode : lambda$new$0
+24/04/2024 14:50:10 Level : INFO / Message : Début du programme. / Classe : Main / Méthode : main
+24/04/2024 14:50:10 Level : INFO / Message : Fin du programme.  / Classe : Main / Méthode : main
